@@ -1,0 +1,54 @@
+Demonstrate your understanding of this week's concepts by answering the following free-form questions.
+
+Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your Team Lead
+
+If you were to describe semantic HTML to the next cohort of students, what would you say?
+
+Certain tags were added to HTML5 which were semantic, that is, had meaning both for readers and humans. Examples are Section, Article, Nav, Header and Footer. Semantic tags are labels with meaning, unlike Div. They give meaning to the material within the tags, making for better Search engine searches and better understanding of areas of websites.
+
+Name two big differences between display: block; and display: inline;.
+
+display: block; provides that the area described by the selectors will be a block -- that is, it will consume at least a line. Without more, a tag that follows will display below on the screen.
+Items with display: block, or other block items will stack vertically on the screen.
+display: inline; will, like "span", not consume a line like items between <p> tags, but will consume only part of a line.
+display: inline; items will display along side other items, and can be like in a row rather than a column.
+
+What are the 4 areas of the box model?
+
+Content, padding, margin and border.
+
+While using flexbox, what axis does the following property work on: align-items: center?
+
+Vertical axis, centered across the horizontal axis.
+
+Explain why git is valuable to a team of developers.
+
+It is useful for version control and collaboration whereby a project can be worked on by different people or teams wherein branches can be worked on without altering the main repository until things are ready to be merged and presented for review or production.
+
+
+You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section will prevent you from passing this challenge.
+If you were to describe semantic HTML to the next cohort of students, what would you say?
+
+Certain tags were added to HTML5 which were semantic, that is, had meaning both for readers and humans. Examples are Section, Article, Nav, Header and Footer. Semantic tags are labels with meaning, unlike Div. They give meaning to the material within the tags, making for better Search engine searches and better understanding of areas of websites.
+
+Name two big differences between display: block; and display: inline;.
+
+display: block; provides that the area described by the selectors will be a block -- that is, it will consume at least a line. Without more, a tag that follows will display below on the screen.
+Items with display: block, or other block items will stack vertically on the screen.
+display: inline; will, like "span", not consume a line like items between <p> tags, but will consume only part of a line.
+display: inline; items will display along side other items, and can be like in a row rather than a column.
+
+What are the 4 areas of the box model?
+
+Content, padding, margin and border.
+
+While using flexbox, what axis does the following property work on: align-items: center?
+
+Vertical axis, centered across the horizontal axis.
+
+Explain why git is valuable to a team of developers.
+
+It is useful for version control and collaboration whereby a project can be worked on by different people or teams wherein branches can be worked on without altering the main repository until things are ready to be merged and presented for review or production.
+
+
+You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section will prevent you from passing this challenge.
